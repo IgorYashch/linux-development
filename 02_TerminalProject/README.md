@@ -6,7 +6,7 @@
 #### Quick start
 - `make` / `make build` - собрать исполняемый файл `Show`
 - `./Show file.txt`- открыть файл для просмотра
-- `make clear` - удалить исполняемые файлы
+- `make clean` - удалить исполняемые файлы
 
 
 #### Example
