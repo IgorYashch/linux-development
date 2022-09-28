@@ -1,5 +1,4 @@
-## Программа для просмотра текстовых файлов
-
+## Программа для просмотра текстовых файлов (ASCII only)
 #### Requirements
 - `sudo apt-get install libncurses5w-dev`
 
