@@ -1,7 +1,7 @@
 ## Программа для просмотра текстовых файлов
 
 #### Requirements
-- sudo apt-get install libncurses5w-dev
+- `sudo apt-get install libncurses5w-dev`
 
 #### Quick start
 - `make` / `make build` - собрать исполняемый файл `Show`
@@ -10,5 +10,5 @@
 
 
 #### Example
-<img src=./example.gif width="512" height="302">
+<img src=./example.gif>
 
