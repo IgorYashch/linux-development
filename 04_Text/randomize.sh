@@ -35,4 +35,4 @@ while read -r X Y CHR; do
     sleep $DELAY
 done
 
-tput cup $((LINE)) 0
+tput cup $((LINE + 1)) 0
